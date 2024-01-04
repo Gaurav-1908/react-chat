@@ -1,0 +1,9 @@
+/web/node_modules
+/web/build
+/server/node_modules
+/mobile/node_modules
+
+/server/.env
+/web/.env
+
+
